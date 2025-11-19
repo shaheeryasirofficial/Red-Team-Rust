@@ -1,19 +1,14 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License">
-  <img src="https://img.shields.io/github/stars/ShaheerYasir/Red-Team-Rust?style=social" alt="GitHub Stars">
-  <img src="https://img.shields.io/github/forks/ShaheerYasir/Red-Team-Rust?style=social" alt="GitHub Forks">
-</p>
 
 <h1 align="center">🛡️ Red-Team-Rust</h1>
 
 <p align="center">
-  A beginner-friendly collection of Rust notes focused on <br>
-  <strong>Red Team tooling • Malware Development • Systems Programming • Rust fundamentals</strong>
+  A beginner-friendly collection of Rust notes focused on<br>
+  <strong>Red Team Tooling • Malware Development • Systems Programming • Rust Fundamentals</strong>
 </p>
 
 All content is compiled into a single PDF for easy offline reading and learning.
 
-If this project helps you in any way please **Star ⭐** and **Fork 🍴** it!
+If this project helps you — please **Star ⭐** and **Fork 🍴** it!
 
 ---
 
@@ -53,13 +48,13 @@ This project exists to help people who want to:
 - Learn **malware-oriented Rust patterns**  
 - Strengthen systems programming skills  
 
-> Rust is extremely powerful for offensive tooling these notes make it approachable.
+> Rust is extremely powerful for offensive tooling — these notes make it approachable.
 
 ---
 
 ### 🧩 License
 
-This project is licensed under the **MIT License** — you are free to use, modify, and distribute it (even commercially).
+This project is licensed under the **MIT License** — feel free to use, modify, and distribute.
 
 [View Full License](LICENSE)
 
@@ -69,12 +64,12 @@ This project is licensed under the **MIT License** — you are free to use, modi
 
 If you find these notes useful:
 
-- ⭐ **Star** this repository  
-- 🍴 **Fork** it to keep your own copy  
-- 🛠️ Open issues or PRs with improvements or new topics  
+- ⭐ **Star** this repo  
+- 🍴 **Fork** it  
+- 🛠️ Contribute new topics or improvements  
 
-Every bit of support keeps me motivated to add more advanced (and spicy 🌶️) content!
+Every star keeps the red-team fire burning 🔥
 
 ---
 
-Made with ❤️ by [ShaheerYasir](https://github.com/shaheeryasirofficial)
+Made with ❤️ (and a little danger ⚡) by [ShaheerYasir](https://github.com/shaheeryasirofficial)
